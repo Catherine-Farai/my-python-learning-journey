@@ -1,3 +1,4 @@
-Sprint("This is Python Script")
+print("This is Python Script")
 print("Welcome to sabi programmer by engr Dav")
-print("3+4")
+3+4
+
