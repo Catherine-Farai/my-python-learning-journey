@@ -67,8 +67,37 @@ if price > 100:
     print("price is greater than 100")
 elif price == 100:
     print("price is 100")
-else price < 100:
+elif price < 100:
     print("price is less than 100")
+deque = ([0, 10, 20, 30, 40])
+deque.pop()
+print(deque)
+
+#print(math.radians(30))
+#print(math.e)
+
+import math
+math.exp(30)
+print(math)
+
+'''import collections
+student = collections.namedtuple('student', [name, age, marks])
+s1 = student("Imran", 21, 98)
+print(s1.name)
+
+s1 = student("Imran", 21, 98)
+student = collections.namedtuple('student', [name, age, marks])
+print(s1.name)
+
+s1 = student('kate', 21, 98)
+student = ('name', 'age', 'marks')
+print(s1.name)'''
+
+
+
+
+ 
+ 
 
 
 
